@@ -1,0 +1,16 @@
+- model: 'activity.Activity'
+  fields:
+    id: afcc1b39-8887-4027-977d-5b1cbff2e533
+    user: e2e607ee-4cca-400e-99c5-ae24abca97d5
+    project: 016fe969-4d2f-78f9-81b4-1bdcebd975e4
+    rule: 6e10b138-9899-43cf-8a62-d6119456aa82
+    payment: edf6a8f3-3081-414e-9b2f-4b6fa32eba2e
+    project_name: "Meta de prueba"
+    rule_name: "Rule Name"
+    amount : 1000
+    title: "Title"
+    message: "Message"
+    footer: "Footer"
+    rule_icon: "Icon"
+    created_at: 2022-01-27
+    activity_type: 'S'
